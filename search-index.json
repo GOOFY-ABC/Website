@@ -1,1 +1,22 @@
-
+[
+  {
+    "title": "Home",
+    "url": "index.html",
+    "content": "Welcome to my site. This is the homepage."
+  },
+  {
+    "title": "About",
+    "url": "about.html",
+    "content": "Learn more about me and my work."
+  },
+  {
+    "title": "Projects",
+    "url": "projects.html",
+    "content": "A showcase of my coding and creative projects."
+  },
+  {
+    "title": "Contact",
+    "url": "contact.html",
+    "content": "Get in touch with me via email or social media."
+  }
+]
