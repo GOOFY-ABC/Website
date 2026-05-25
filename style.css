@@ -1,1 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 0 15px;
+  background: #f9f9f9;
+}
 
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+#searchBox {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+#results p {
+  background: white;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+}
+
+#results a {
+  text-decoration: none;
+  color: #0077cc;
+}
+
+#results a:hover {
+  text-decoration: underline;
+}
